@@ -8,6 +8,6 @@ I'm an aspiring Web Developer that has yet to specialize in anything.
 
 🧠 Currently learning Javascript
 
-👨‍🎓 Student at [Akademia Kaliska](https://akademia.kalisz.pl/en/home-page/).
+👨‍🎓 Student at [Akademia Kaliska](https://akademia.kalisz.pl/).
 
 📫 You can reach me via the e-mail listed on my github page
