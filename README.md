@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Marcin here
 
-<!--
-**mkleczewski/mkleczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Web Developer that has yet to specialize in anything.
 
-Here are some ideas to get you started:
+## Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Not working on any public projects right now
+
+🧠 Currently learning Javascript
+
+👨‍🎓 Student at [Akademia Kaliska](https://akademia.kalisz.pl/en/home-page/).
+
+📫 You can reach me via the e-mail listed on my github page
