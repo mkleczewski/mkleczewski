@@ -8,7 +8,7 @@ I'm an aspiring web developer focusing on frontend development.
 
 🧠   Currently learning React
 
-👨‍🎓   Student at [Akademia Kaliska](https://akademia.kalisz.pl/).
+👨‍🎓   Student at [Uniwersytet Kaliski](https://uniwersytetkaliski.edu.pl/).
 
 🐌   Contribution graph not looking so good since I've mainly been using version control for my studies on gitlab
       but I'm back on github so it shoud look healthier 😊
