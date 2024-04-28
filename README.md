@@ -1,13 +1,16 @@
 # 👋 Marcin here
 
-I'm an aspiring Web Developer that has yet to specialize in anything.
+I'm an aspiring web developer focusing on frontend development.
 
 ## Info
 
-👩‍💻 Not working on any public projects right now
+👩‍💻   Not working on any public projects right now
 
-🧠 Currently learning Javascript
+🧠   Currently learning React
 
-👨‍🎓 Student at [Akademia Kaliska](https://akademia.kalisz.pl/).
+👨‍🎓   Student at [Akademia Kaliska](https://akademia.kalisz.pl/).
 
-📫 You can reach me via the e-mail listed on my github page
+🐌   Contribution graph not looking so good since I've mainly been using version control for my studies on gitlab
+      but I'm back on github so it shoud look healthier 😊
+
+📫   You can reach me via the e-mail listed on my github page
