@@ -6,7 +6,7 @@ I'm an aspiring web developer focusing on frontend development.
 
 👩‍💻   Not working on any public projects right now
 
-🧠   Currently learning React
+🧠   Currently learning Next.js with TypeScript
 
 👨‍🎓   Student at [Uniwersytet Kaliski](https://uniwersytetkaliski.edu.pl/).
 
